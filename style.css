@@ -1,0 +1,34 @@
+
+.button1 {
+  background-color: rgb(210, 120, 100);
+  border: none;
+  color: blue;
+  padding:12px 40px;
+  text-align: center;
+   text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+}
+.button2 {
+  background-color: rgb(100, 210, 159);
+  border: none;
+  color: blue;
+  padding:12px 40px;
+  text-align: center;
+   text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+}
+.button3 {
+  background-color: rgb(255, 0, 0);
+  border: none;
+  color: blue;
+  padding:12px 40px;
+  text-align: center;
+text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+}
